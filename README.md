@@ -4,4 +4,4 @@ Demonstrating some of the essential tasks in NLP domain:
 - Seq2Seq evaluation metrics
 - Machine Translation
 - Abstractive Text Summarization
-- Desigining Chatbot 
+- Designing Chatbots
