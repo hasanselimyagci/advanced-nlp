@@ -1,5 +1,4 @@
-Demonstrating some of the essential tasks in NLP domain:
-- 
+### Understanding and implementing key concepts of Advanced NLP 
 - Finetuning LLMs
   - Language modelling, Masked Language Modeling, Next Sentence Prediction, Zero-Shot Classification, Topic Modeling, Sentiment Classification, In-Context Learning
 - Seq2Seq evaluation metrics
